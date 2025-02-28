@@ -1,2 +1,2 @@
 # DumbStreamm
-Projeto html, css, e javascript, com consumo de api
+Projeto com HTML, CSS e JavaScript, com consumo de api.
